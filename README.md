@@ -1,7 +1,7 @@
 # study-language-c
 Repository for studying C language <br><br>
 
-### study contents
+## study contents
 1. Data-type
 2. Input&Print
 3. Operator
@@ -14,5 +14,5 @@ Repository for studying C language <br><br>
 10. Structure
 11. File Input&Output
 
-### study platform
+## study platform
 https://jungol.co.kr/
