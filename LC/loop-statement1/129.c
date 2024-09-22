@@ -27,7 +27,7 @@ int main(){
         printf("\nContinue? ");
         scanf(" %c", &cont);
 
-        if((cont == 'Y')&&(cont == 'y')){
+        if((cont == 'Y')||(cont == 'y')){
         }
         else{
             break;
