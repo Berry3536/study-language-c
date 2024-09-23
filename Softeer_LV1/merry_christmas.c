@@ -1,8 +1,9 @@
 /*
-    Created by: Janguk.kim
-    Created on: 2024-09-22
-    file name: merry_christmas.c
-    status: Clear
+    Created by:     Janguk.kim
+    Created on:     2024-09-23
+    file name:      merry_christmas.c
+    problem name:   메리크리스마스
+    status:         Clear
 */
 
 #include <stdio.h>

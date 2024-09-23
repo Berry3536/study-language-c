@@ -1,8 +1,9 @@
 /*
-    Created by: Janguk.kim
-    Created on: 2024-09-23
-    file name: tree_print.c
-    status: Clear
+    Created by:     Janguk.kim
+    Created on:     2024-09-23
+    file name:      tree_print.c
+    problem name:   나무 출력
+    status:         Clear
 */
 
 #include <stdio.h>
