@@ -1,10 +1,12 @@
 /*
-    Created by:     Janguk.kim
-    Created on:     2024-09-23
-    file name:      eight_state_transmission.c
-    problem name:   8단 변속기
-    status:         Clear
-*/
+ * eight_state_transmission.c
+ * 
+ *   Created on : 2024-09-23
+ *       Author : Janguk.Kim
+ * Problem name : 8단 변속기
+ *       Status : Clear
+ */
+
 
 #include <stdio.h>
 
