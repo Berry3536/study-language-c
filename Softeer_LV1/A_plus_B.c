@@ -1,10 +1,12 @@
 /*
-    Created by:     Janguk.kim
-    Created on:     2024-09-23
-    file name:      A_plus_B.c
-    problem name:   A+B
-    status:         Clear
-*/
+ * A_plus_B.c 
+ * 
+ *   Created on : 2024-09-23
+ *       Author : Janguk.Kim
+ * problem name : A+B
+ *       status : Clear
+ */
+
 
 #include <stdio.h>
 

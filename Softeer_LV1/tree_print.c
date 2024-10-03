@@ -1,10 +1,12 @@
 /*
-    Created by:     Janguk.kim
-    Created on:     2024-09-23
-    file name:      tree_print.c
-    problem name:   나무 출력
-    status:         Clear
-*/
+ * tree_print.c
+ * 
+ *   Created on : 2024-09-23
+ *       Author : Janguk.Kim
+ * problem name : 나무 출력
+ *       status : Clear
+ */
+
 
 #include <stdio.h>
 
